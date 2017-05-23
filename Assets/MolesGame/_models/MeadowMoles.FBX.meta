@@ -1,0 +1,3646 @@
+fileFormatVersion: 2
+guid: 8bcd5eaf1f2eb1b4db15be1cf27a0835
+timeCreated: 1439805080
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: Box008
+    100010: Box009
+    100012: Box010
+    100014: Box011
+    100016: Box012
+    100018: Box013
+    100020: Box014
+    100022: Box015
+    100024: Box016
+    100026: Box017
+    100028: Box018
+    100030: Box019
+    100032: Box020
+    100034: Box021
+    100036: Box022
+    100038: Box023
+    100040: Box024
+    100042: Box025
+    100044: Box026
+    100046: Box027
+    100048: Box028
+    100050: Box029
+    100052: Box030
+    100054: Box031
+    100056: Box032
+    100058: Box033
+    100060: Box034
+    100062: Box035
+    100064: Box036
+    100066: Box037
+    100068: Box038
+    100070: Box039
+    100072: Box040
+    100074: Box041
+    100076: Box042
+    100078: Box043
+    100080: Box044
+    100082: Box045
+    100084: Box046
+    100086: Camera001
+    100088: Camera001.Target
+    100090: Group008
+    100092: Group009
+    100094: Group010
+    100096: Group011
+    100098: Group012
+    100100: Group013
+    100102: Group014
+    100104: Group015
+    100106: Group016
+    100108: Group017
+    100110: Line011
+    100112: Line012
+    100114: Line013
+    100116: Line014
+    100118: Line015
+    100120: Line016
+    100122: Line017
+    100124: Line018
+    100126: Line024
+    100128: Line034
+    100130: Line035
+    100132: Line036
+    100134: Line037
+    100136: Line038
+    100138: Line039
+    100140: Line040
+    100142: Line041
+    100144: Line042
+    100146: Line043
+    100148: Line044
+    100150: Line045
+    100152: Line046
+    100154: Line047
+    100156: //RootNode
+    100158: Object005
+    100160: Object006
+    100162: Object007
+    100164: Object008
+    100166: Object009
+    100168: Plane001
+    100170: Plane002
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: Box008
+    400010: Box009
+    400012: Box010
+    400014: Box011
+    400016: Box012
+    400018: Box013
+    400020: Box014
+    400022: Box015
+    400024: Box016
+    400026: Box017
+    400028: Box018
+    400030: Box019
+    400032: Box020
+    400034: Box021
+    400036: Box022
+    400038: Box023
+    400040: Box024
+    400042: Box025
+    400044: Box026
+    400046: Box027
+    400048: Box028
+    400050: Box029
+    400052: Box030
+    400054: Box031
+    400056: Box032
+    400058: Box033
+    400060: Box034
+    400062: Box035
+    400064: Box036
+    400066: Box037
+    400068: Box038
+    400070: Box039
+    400072: Box040
+    400074: Box041
+    400076: Box042
+    400078: Box043
+    400080: Box044
+    400082: Box045
+    400084: Box046
+    400086: Camera001
+    400088: Camera001.Target
+    400090: Group008
+    400092: Group009
+    400094: Group010
+    400096: Group011
+    400098: Group012
+    400100: Group013
+    400102: Group014
+    400104: Group015
+    400106: Group016
+    400108: Group017
+    400110: Line011
+    400112: Line012
+    400114: Line013
+    400116: Line014
+    400118: Line015
+    400120: Line016
+    400122: Line017
+    400124: Line018
+    400126: Line024
+    400128: Line034
+    400130: Line035
+    400132: Line036
+    400134: Line037
+    400136: Line038
+    400138: Line039
+    400140: Line040
+    400142: Line041
+    400144: Line042
+    400146: Line043
+    400148: Line044
+    400150: Line045
+    400152: Line046
+    400154: Line047
+    400156: //RootNode
+    400158: Object005
+    400160: Object006
+    400162: Object007
+    400164: Object008
+    400166: Object009
+    400168: Plane001
+    400170: Plane002
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box008
+    2300010: Box009
+    2300012: Box010
+    2300014: Box011
+    2300016: Box012
+    2300018: Box013
+    2300020: Box014
+    2300022: Box015
+    2300024: Box016
+    2300026: Box017
+    2300028: Box018
+    2300030: Box019
+    2300032: Box020
+    2300034: Box021
+    2300036: Box022
+    2300038: Box023
+    2300040: Box024
+    2300042: Box025
+    2300044: Box026
+    2300046: Box027
+    2300048: Box028
+    2300050: Box029
+    2300052: Box030
+    2300054: Box031
+    2300056: Box032
+    2300058: Box033
+    2300060: Box034
+    2300062: Box035
+    2300064: Box036
+    2300066: Box037
+    2300068: Box038
+    2300070: Box039
+    2300072: Box040
+    2300074: Box041
+    2300076: Box042
+    2300078: Box043
+    2300080: Box044
+    2300082: Box045
+    2300084: Box046
+    2300086: Line011
+    2300088: Line012
+    2300090: Line013
+    2300092: Line014
+    2300094: Line015
+    2300096: Line016
+    2300098: Line017
+    2300100: Line018
+    2300102: Line024
+    2300104: Line034
+    2300106: Line035
+    2300108: Line036
+    2300110: Line037
+    2300112: Line038
+    2300114: Line039
+    2300116: Line040
+    2300118: Line041
+    2300120: Line042
+    2300122: Line043
+    2300124: Line044
+    2300126: Line045
+    2300128: Line046
+    2300130: Line047
+    2300132: Object005
+    2300134: Object006
+    2300136: Object007
+    2300138: Object008
+    2300140: Object009
+    2300142: Plane001
+    2300144: Plane002
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box008
+    3300010: Box009
+    3300012: Box010
+    3300014: Box011
+    3300016: Box012
+    3300018: Box013
+    3300020: Box014
+    3300022: Box015
+    3300024: Box016
+    3300026: Box017
+    3300028: Box018
+    3300030: Box019
+    3300032: Box020
+    3300034: Box021
+    3300036: Box022
+    3300038: Box023
+    3300040: Box024
+    3300042: Box025
+    3300044: Box026
+    3300046: Box027
+    3300048: Box028
+    3300050: Box029
+    3300052: Box030
+    3300054: Box031
+    3300056: Box032
+    3300058: Box033
+    3300060: Box034
+    3300062: Box035
+    3300064: Box036
+    3300066: Box037
+    3300068: Box038
+    3300070: Box039
+    3300072: Box040
+    3300074: Box041
+    3300076: Box042
+    3300078: Box043
+    3300080: Box044
+    3300082: Box045
+    3300084: Box046
+    3300086: Line011
+    3300088: Line012
+    3300090: Line013
+    3300092: Line014
+    3300094: Line015
+    3300096: Line016
+    3300098: Line017
+    3300100: Line018
+    3300102: Line024
+    3300104: Line034
+    3300106: Line035
+    3300108: Line036
+    3300110: Line037
+    3300112: Line038
+    3300114: Line039
+    3300116: Line040
+    3300118: Line041
+    3300120: Line042
+    3300122: Line043
+    3300124: Line044
+    3300126: Line045
+    3300128: Line046
+    3300130: Line047
+    3300132: Object005
+    3300134: Object006
+    3300136: Object007
+    3300138: Object008
+    3300140: Object009
+    3300142: Plane001
+    3300144: Plane002
+    4300000: Plane001
+    4300002: Line011
+    4300004: Line012
+    4300006: Plane002
+    4300008: Line024
+    4300010: Line034
+    4300012: Object005
+    4300014: Line035
+    4300016: Box042
+    4300018: Box015
+    4300020: Box002
+    4300022: Box003
+    4300024: Box004
+    4300026: Box008
+    4300028: Box009
+    4300030: Box010
+    4300032: Box011
+    4300034: Box012
+    4300036: Box013
+    4300038: Box014
+    4300040: Line015
+    4300042: Box016
+    4300044: Box017
+    4300046: Box018
+    4300048: Box019
+    4300050: Box020
+    4300052: Box021
+    4300054: Line013
+    4300056: Line014
+    4300058: Box001
+    4300060: Box022
+    4300062: Box023
+    4300064: Box024
+    4300066: Box025
+    4300068: Box026
+    4300070: Box027
+    4300072: Box028
+    4300074: Box029
+    4300076: Box030
+    4300078: Box031
+    4300080: Box032
+    4300082: Box033
+    4300084: Line016
+    4300086: Box034
+    4300088: Box035
+    4300090: Box036
+    4300092: Box037
+    4300094: Box038
+    4300096: Box039
+    4300098: Line017
+    4300100: Line018
+    4300102: Box040
+    4300104: Box041
+    4300106: Line036
+    4300108: Object006
+    4300110: Box043
+    4300112: Line037
+    4300114: Line038
+    4300116: Line039
+    4300118: Object007
+    4300120: Box044
+    4300122: Line040
+    4300124: Line041
+    4300126: Line042
+    4300128: Object008
+    4300130: Box045
+    4300132: Line043
+    4300134: Line044
+    4300136: Line045
+    4300138: Object009
+    4300140: Box046
+    4300142: Line046
+    4300144: Line047
+    7400000: all
+    7400002: 1up
+    7400004: 1bang
+    7400006: 1empty
+    7400008: 2up
+    7400010: 2bang
+    7400012: 2empty
+    7400014: 3up
+    7400016: 3bang
+    7400018: 5empty
+    7400020: 4up
+    7400022: 4bang
+    7400024: 3empty
+    7400026: 5up
+    7400028: 5bang
+    7400030: 4empty
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: all
+      takeName: polianka2
+      firstFrame: 0
+      lastFrame: 740
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box033
+        weight: 1
+      - path: Box034
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box037
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Line034
+        weight: 1
+      - path: Group008/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Box042
+        weight: 1
+      - path: Group009/Line035
+        weight: 1
+      - path: Group010
+        weight: 1
+      - path: Group010/Line036
+        weight: 1
+      - path: Group010/Object006
+        weight: 1
+      - path: Group011
+        weight: 1
+      - path: Group011/Box043
+        weight: 1
+      - path: Group011/Line037
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Line039
+        weight: 1
+      - path: Group012/Object007
+        weight: 1
+      - path: Group013
+        weight: 1
+      - path: Group013/Box044
+        weight: 1
+      - path: Group013/Line040
+        weight: 1
+      - path: Group014
+        weight: 1
+      - path: Group014/Line042
+        weight: 1
+      - path: Group014/Object008
+        weight: 1
+      - path: Group015
+        weight: 1
+      - path: Group015/Box045
+        weight: 1
+      - path: Group015/Line043
+        weight: 1
+      - path: Group016
+        weight: 1
+      - path: Group016/Line045
+        weight: 1
+      - path: Group016/Object009
+        weight: 1
+      - path: Group017
+        weight: 1
+      - path: Group017/Box046
+        weight: 1
+      - path: Group017/Line046
+        weight: 1
+      - path: Line011
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line013
+        weight: 1
+      - path: Line014
+        weight: 1
+      - path: Line015
+        weight: 1
+      - path: Line016
+        weight: 1
+      - path: Line017
+        weight: 1
+      - path: Line018
+        weight: 1
+      - path: Line024
+        weight: 1
+      - path: Line038
+        weight: 1
+      - path: Line041
+        weight: 1
+      - path: Line044
+        weight: 1
+      - path: Line047
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Plane002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 1up
+      takeName: polianka2
+      firstFrame: 151
+      lastFrame: 179
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box033
+        weight: 1
+      - path: Box034
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box037
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Line034
+        weight: 1
+      - path: Group008/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Box042
+        weight: 1
+      - path: Group009/Line035
+        weight: 1
+      - path: Group010
+        weight: 1
+      - path: Group010/Line036
+        weight: 1
+      - path: Group010/Object006
+        weight: 1
+      - path: Group011
+        weight: 1
+      - path: Group011/Box043
+        weight: 1
+      - path: Group011/Line037
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Line039
+        weight: 1
+      - path: Group012/Object007
+        weight: 1
+      - path: Group013
+        weight: 1
+      - path: Group013/Box044
+        weight: 1
+      - path: Group013/Line040
+        weight: 1
+      - path: Group014
+        weight: 1
+      - path: Group014/Line042
+        weight: 1
+      - path: Group014/Object008
+        weight: 1
+      - path: Group015
+        weight: 1
+      - path: Group015/Box045
+        weight: 1
+      - path: Group015/Line043
+        weight: 1
+      - path: Group016
+        weight: 1
+      - path: Group016/Line045
+        weight: 1
+      - path: Group016/Object009
+        weight: 1
+      - path: Group017
+        weight: 1
+      - path: Group017/Box046
+        weight: 1
+      - path: Group017/Line046
+        weight: 1
+      - path: Line011
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line013
+        weight: 1
+      - path: Line014
+        weight: 1
+      - path: Line015
+        weight: 1
+      - path: Line016
+        weight: 1
+      - path: Line017
+        weight: 1
+      - path: Line018
+        weight: 1
+      - path: Line024
+        weight: 1
+      - path: Line038
+        weight: 1
+      - path: Line041
+        weight: 1
+      - path: Line044
+        weight: 1
+      - path: Line047
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Plane002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 1bang
+      takeName: polianka2
+      firstFrame: 180
+      lastFrame: 224
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box033
+        weight: 1
+      - path: Box034
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box037
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Line034
+        weight: 1
+      - path: Group008/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Box042
+        weight: 1
+      - path: Group009/Line035
+        weight: 1
+      - path: Group010
+        weight: 1
+      - path: Group010/Line036
+        weight: 1
+      - path: Group010/Object006
+        weight: 1
+      - path: Group011
+        weight: 1
+      - path: Group011/Box043
+        weight: 1
+      - path: Group011/Line037
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Line039
+        weight: 1
+      - path: Group012/Object007
+        weight: 1
+      - path: Group013
+        weight: 1
+      - path: Group013/Box044
+        weight: 1
+      - path: Group013/Line040
+        weight: 1
+      - path: Group014
+        weight: 1
+      - path: Group014/Line042
+        weight: 1
+      - path: Group014/Object008
+        weight: 1
+      - path: Group015
+        weight: 1
+      - path: Group015/Box045
+        weight: 1
+      - path: Group015/Line043
+        weight: 1
+      - path: Group016
+        weight: 1
+      - path: Group016/Line045
+        weight: 1
+      - path: Group016/Object009
+        weight: 1
+      - path: Group017
+        weight: 1
+      - path: Group017/Box046
+        weight: 1
+      - path: Group017/Line046
+        weight: 1
+      - path: Line011
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line013
+        weight: 1
+      - path: Line014
+        weight: 1
+      - path: Line015
+        weight: 1
+      - path: Line016
+        weight: 1
+      - path: Line017
+        weight: 1
+      - path: Line018
+        weight: 1
+      - path: Line024
+        weight: 1
+      - path: Line038
+        weight: 1
+      - path: Line041
+        weight: 1
+      - path: Line044
+        weight: 1
+      - path: Line047
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Plane002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 1empty
+      takeName: polianka2
+      firstFrame: 256
+      lastFrame: 291
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box033
+        weight: 1
+      - path: Box034
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box037
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Line034
+        weight: 1
+      - path: Group008/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Box042
+        weight: 1
+      - path: Group009/Line035
+        weight: 1
+      - path: Group010
+        weight: 1
+      - path: Group010/Line036
+        weight: 1
+      - path: Group010/Object006
+        weight: 1
+      - path: Group011
+        weight: 1
+      - path: Group011/Box043
+        weight: 1
+      - path: Group011/Line037
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Line039
+        weight: 1
+      - path: Group012/Object007
+        weight: 1
+      - path: Group013
+        weight: 1
+      - path: Group013/Box044
+        weight: 1
+      - path: Group013/Line040
+        weight: 1
+      - path: Group014
+        weight: 1
+      - path: Group014/Line042
+        weight: 1
+      - path: Group014/Object008
+        weight: 1
+      - path: Group015
+        weight: 1
+      - path: Group015/Box045
+        weight: 1
+      - path: Group015/Line043
+        weight: 1
+      - path: Group016
+        weight: 1
+      - path: Group016/Line045
+        weight: 1
+      - path: Group016/Object009
+        weight: 1
+      - path: Group017
+        weight: 1
+      - path: Group017/Box046
+        weight: 1
+      - path: Group017/Line046
+        weight: 1
+      - path: Line011
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line013
+        weight: 1
+      - path: Line014
+        weight: 1
+      - path: Line015
+        weight: 1
+      - path: Line016
+        weight: 1
+      - path: Line017
+        weight: 1
+      - path: Line018
+        weight: 1
+      - path: Line024
+        weight: 1
+      - path: Line038
+        weight: 1
+      - path: Line041
+        weight: 1
+      - path: Line044
+        weight: 1
+      - path: Line047
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Plane002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 2up
+      takeName: polianka2
+      firstFrame: 1
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box033
+        weight: 1
+      - path: Box034
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box037
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Line034
+        weight: 1
+      - path: Group008/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Box042
+        weight: 1
+      - path: Group009/Line035
+        weight: 1
+      - path: Group010
+        weight: 1
+      - path: Group010/Line036
+        weight: 1
+      - path: Group010/Object006
+        weight: 1
+      - path: Group011
+        weight: 1
+      - path: Group011/Box043
+        weight: 1
+      - path: Group011/Line037
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Line039
+        weight: 1
+      - path: Group012/Object007
+        weight: 1
+      - path: Group013
+        weight: 1
+      - path: Group013/Box044
+        weight: 1
+      - path: Group013/Line040
+        weight: 1
+      - path: Group014
+        weight: 1
+      - path: Group014/Line042
+        weight: 1
+      - path: Group014/Object008
+        weight: 1
+      - path: Group015
+        weight: 1
+      - path: Group015/Box045
+        weight: 1
+      - path: Group015/Line043
+        weight: 1
+      - path: Group016
+        weight: 1
+      - path: Group016/Line045
+        weight: 1
+      - path: Group016/Object009
+        weight: 1
+      - path: Group017
+        weight: 1
+      - path: Group017/Box046
+        weight: 1
+      - path: Group017/Line046
+        weight: 1
+      - path: Line011
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line013
+        weight: 1
+      - path: Line014
+        weight: 1
+      - path: Line015
+        weight: 1
+      - path: Line016
+        weight: 1
+      - path: Line017
+        weight: 1
+      - path: Line018
+        weight: 1
+      - path: Line024
+        weight: 1
+      - path: Line038
+        weight: 1
+      - path: Line041
+        weight: 1
+      - path: Line044
+        weight: 1
+      - path: Line047
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Plane002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 2bang
+      takeName: polianka2
+      firstFrame: 37
+      lastFrame: 88
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box033
+        weight: 1
+      - path: Box034
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box037
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Line034
+        weight: 1
+      - path: Group008/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Box042
+        weight: 1
+      - path: Group009/Line035
+        weight: 1
+      - path: Group010
+        weight: 1
+      - path: Group010/Line036
+        weight: 1
+      - path: Group010/Object006
+        weight: 1
+      - path: Group011
+        weight: 1
+      - path: Group011/Box043
+        weight: 1
+      - path: Group011/Line037
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Line039
+        weight: 1
+      - path: Group012/Object007
+        weight: 1
+      - path: Group013
+        weight: 1
+      - path: Group013/Box044
+        weight: 1
+      - path: Group013/Line040
+        weight: 1
+      - path: Group014
+        weight: 1
+      - path: Group014/Line042
+        weight: 1
+      - path: Group014/Object008
+        weight: 1
+      - path: Group015
+        weight: 1
+      - path: Group015/Box045
+        weight: 1
+      - path: Group015/Line043
+        weight: 1
+      - path: Group016
+        weight: 1
+      - path: Group016/Line045
+        weight: 1
+      - path: Group016/Object009
+        weight: 1
+      - path: Group017
+        weight: 1
+      - path: Group017/Box046
+        weight: 1
+      - path: Group017/Line046
+        weight: 1
+      - path: Line011
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line013
+        weight: 1
+      - path: Line014
+        weight: 1
+      - path: Line015
+        weight: 1
+      - path: Line016
+        weight: 1
+      - path: Line017
+        weight: 1
+      - path: Line018
+        weight: 1
+      - path: Line024
+        weight: 1
+      - path: Line038
+        weight: 1
+      - path: Line041
+        weight: 1
+      - path: Line044
+        weight: 1
+      - path: Line047
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Plane002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 2empty
+      takeName: polianka2
+      firstFrame: 113
+      lastFrame: 148
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box033
+        weight: 1
+      - path: Box034
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box037
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Line034
+        weight: 1
+      - path: Group008/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Box042
+        weight: 1
+      - path: Group009/Line035
+        weight: 1
+      - path: Group010
+        weight: 1
+      - path: Group010/Line036
+        weight: 1
+      - path: Group010/Object006
+        weight: 1
+      - path: Group011
+        weight: 1
+      - path: Group011/Box043
+        weight: 1
+      - path: Group011/Line037
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Line039
+        weight: 1
+      - path: Group012/Object007
+        weight: 1
+      - path: Group013
+        weight: 1
+      - path: Group013/Box044
+        weight: 1
+      - path: Group013/Line040
+        weight: 1
+      - path: Group014
+        weight: 1
+      - path: Group014/Line042
+        weight: 1
+      - path: Group014/Object008
+        weight: 1
+      - path: Group015
+        weight: 1
+      - path: Group015/Box045
+        weight: 1
+      - path: Group015/Line043
+        weight: 1
+      - path: Group016
+        weight: 1
+      - path: Group016/Line045
+        weight: 1
+      - path: Group016/Object009
+        weight: 1
+      - path: Group017
+        weight: 1
+      - path: Group017/Box046
+        weight: 1
+      - path: Group017/Line046
+        weight: 1
+      - path: Line011
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line013
+        weight: 1
+      - path: Line014
+        weight: 1
+      - path: Line015
+        weight: 1
+      - path: Line016
+        weight: 1
+      - path: Line017
+        weight: 1
+      - path: Line018
+        weight: 1
+      - path: Line024
+        weight: 1
+      - path: Line038
+        weight: 1
+      - path: Line041
+        weight: 1
+      - path: Line044
+        weight: 1
+      - path: Line047
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Plane002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 3up
+      takeName: polianka2
+      firstFrame: 441
+      lastFrame: 477
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box033
+        weight: 1
+      - path: Box034
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box037
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Line034
+        weight: 1
+      - path: Group008/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Box042
+        weight: 1
+      - path: Group009/Line035
+        weight: 1
+      - path: Group010
+        weight: 1
+      - path: Group010/Line036
+        weight: 1
+      - path: Group010/Object006
+        weight: 1
+      - path: Group011
+        weight: 1
+      - path: Group011/Box043
+        weight: 1
+      - path: Group011/Line037
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Line039
+        weight: 1
+      - path: Group012/Object007
+        weight: 1
+      - path: Group013
+        weight: 1
+      - path: Group013/Box044
+        weight: 1
+      - path: Group013/Line040
+        weight: 1
+      - path: Group014
+        weight: 1
+      - path: Group014/Line042
+        weight: 1
+      - path: Group014/Object008
+        weight: 1
+      - path: Group015
+        weight: 1
+      - path: Group015/Box045
+        weight: 1
+      - path: Group015/Line043
+        weight: 1
+      - path: Group016
+        weight: 1
+      - path: Group016/Line045
+        weight: 1
+      - path: Group016/Object009
+        weight: 1
+      - path: Group017
+        weight: 1
+      - path: Group017/Box046
+        weight: 1
+      - path: Group017/Line046
+        weight: 1
+      - path: Line011
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line013
+        weight: 1
+      - path: Line014
+        weight: 1
+      - path: Line015
+        weight: 1
+      - path: Line016
+        weight: 1
+      - path: Line017
+        weight: 1
+      - path: Line018
+        weight: 1
+      - path: Line024
+        weight: 1
+      - path: Line038
+        weight: 1
+      - path: Line041
+        weight: 1
+      - path: Line044
+        weight: 1
+      - path: Line047
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Plane002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 3bang
+      takeName: polianka2
+      firstFrame: 478
+      lastFrame: 521
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box033
+        weight: 1
+      - path: Box034
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box037
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Line034
+        weight: 1
+      - path: Group008/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Box042
+        weight: 1
+      - path: Group009/Line035
+        weight: 1
+      - path: Group010
+        weight: 1
+      - path: Group010/Line036
+        weight: 1
+      - path: Group010/Object006
+        weight: 1
+      - path: Group011
+        weight: 1
+      - path: Group011/Box043
+        weight: 1
+      - path: Group011/Line037
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Line039
+        weight: 1
+      - path: Group012/Object007
+        weight: 1
+      - path: Group013
+        weight: 1
+      - path: Group013/Box044
+        weight: 1
+      - path: Group013/Line040
+        weight: 1
+      - path: Group014
+        weight: 1
+      - path: Group014/Line042
+        weight: 1
+      - path: Group014/Object008
+        weight: 1
+      - path: Group015
+        weight: 1
+      - path: Group015/Box045
+        weight: 1
+      - path: Group015/Line043
+        weight: 1
+      - path: Group016
+        weight: 1
+      - path: Group016/Line045
+        weight: 1
+      - path: Group016/Object009
+        weight: 1
+      - path: Group017
+        weight: 1
+      - path: Group017/Box046
+        weight: 1
+      - path: Group017/Line046
+        weight: 1
+      - path: Line011
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line013
+        weight: 1
+      - path: Line014
+        weight: 1
+      - path: Line015
+        weight: 1
+      - path: Line016
+        weight: 1
+      - path: Line017
+        weight: 1
+      - path: Line018
+        weight: 1
+      - path: Line024
+        weight: 1
+      - path: Line038
+        weight: 1
+      - path: Line041
+        weight: 1
+      - path: Line044
+        weight: 1
+      - path: Line047
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Plane002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 3empty
+      takeName: polianka2
+      firstFrame: 554
+      lastFrame: 592
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box033
+        weight: 1
+      - path: Box034
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box037
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Line034
+        weight: 1
+      - path: Group008/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Box042
+        weight: 1
+      - path: Group009/Line035
+        weight: 1
+      - path: Group010
+        weight: 1
+      - path: Group010/Line036
+        weight: 1
+      - path: Group010/Object006
+        weight: 1
+      - path: Group011
+        weight: 1
+      - path: Group011/Box043
+        weight: 1
+      - path: Group011/Line037
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Line039
+        weight: 1
+      - path: Group012/Object007
+        weight: 1
+      - path: Group013
+        weight: 1
+      - path: Group013/Box044
+        weight: 1
+      - path: Group013/Line040
+        weight: 1
+      - path: Group014
+        weight: 1
+      - path: Group014/Line042
+        weight: 1
+      - path: Group014/Object008
+        weight: 1
+      - path: Group015
+        weight: 1
+      - path: Group015/Box045
+        weight: 1
+      - path: Group015/Line043
+        weight: 1
+      - path: Group016
+        weight: 1
+      - path: Group016/Line045
+        weight: 1
+      - path: Group016/Object009
+        weight: 1
+      - path: Group017
+        weight: 1
+      - path: Group017/Box046
+        weight: 1
+      - path: Group017/Line046
+        weight: 1
+      - path: Line011
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line013
+        weight: 1
+      - path: Line014
+        weight: 1
+      - path: Line015
+        weight: 1
+      - path: Line016
+        weight: 1
+      - path: Line017
+        weight: 1
+      - path: Line018
+        weight: 1
+      - path: Line024
+        weight: 1
+      - path: Line038
+        weight: 1
+      - path: Line041
+        weight: 1
+      - path: Line044
+        weight: 1
+      - path: Line047
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Plane002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 4up
+      takeName: polianka2
+      firstFrame: 593
+      lastFrame: 625
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box033
+        weight: 1
+      - path: Box034
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box037
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Line034
+        weight: 1
+      - path: Group008/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Box042
+        weight: 1
+      - path: Group009/Line035
+        weight: 1
+      - path: Group010
+        weight: 1
+      - path: Group010/Line036
+        weight: 1
+      - path: Group010/Object006
+        weight: 1
+      - path: Group011
+        weight: 1
+      - path: Group011/Box043
+        weight: 1
+      - path: Group011/Line037
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Line039
+        weight: 1
+      - path: Group012/Object007
+        weight: 1
+      - path: Group013
+        weight: 1
+      - path: Group013/Box044
+        weight: 1
+      - path: Group013/Line040
+        weight: 1
+      - path: Group014
+        weight: 1
+      - path: Group014/Line042
+        weight: 1
+      - path: Group014/Object008
+        weight: 1
+      - path: Group015
+        weight: 1
+      - path: Group015/Box045
+        weight: 1
+      - path: Group015/Line043
+        weight: 1
+      - path: Group016
+        weight: 1
+      - path: Group016/Line045
+        weight: 1
+      - path: Group016/Object009
+        weight: 1
+      - path: Group017
+        weight: 1
+      - path: Group017/Box046
+        weight: 1
+      - path: Group017/Line046
+        weight: 1
+      - path: Line011
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line013
+        weight: 1
+      - path: Line014
+        weight: 1
+      - path: Line015
+        weight: 1
+      - path: Line016
+        weight: 1
+      - path: Line017
+        weight: 1
+      - path: Line018
+        weight: 1
+      - path: Line024
+        weight: 1
+      - path: Line038
+        weight: 1
+      - path: Line041
+        weight: 1
+      - path: Line044
+        weight: 1
+      - path: Line047
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Plane002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 4bang
+      takeName: polianka2
+      firstFrame: 626
+      lastFrame: 679
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box033
+        weight: 1
+      - path: Box034
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box037
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Line034
+        weight: 1
+      - path: Group008/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Box042
+        weight: 1
+      - path: Group009/Line035
+        weight: 1
+      - path: Group010
+        weight: 1
+      - path: Group010/Line036
+        weight: 1
+      - path: Group010/Object006
+        weight: 1
+      - path: Group011
+        weight: 1
+      - path: Group011/Box043
+        weight: 1
+      - path: Group011/Line037
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Line039
+        weight: 1
+      - path: Group012/Object007
+        weight: 1
+      - path: Group013
+        weight: 1
+      - path: Group013/Box044
+        weight: 1
+      - path: Group013/Line040
+        weight: 1
+      - path: Group014
+        weight: 1
+      - path: Group014/Line042
+        weight: 1
+      - path: Group014/Object008
+        weight: 1
+      - path: Group015
+        weight: 1
+      - path: Group015/Box045
+        weight: 1
+      - path: Group015/Line043
+        weight: 1
+      - path: Group016
+        weight: 1
+      - path: Group016/Line045
+        weight: 1
+      - path: Group016/Object009
+        weight: 1
+      - path: Group017
+        weight: 1
+      - path: Group017/Box046
+        weight: 1
+      - path: Group017/Line046
+        weight: 1
+      - path: Line011
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line013
+        weight: 1
+      - path: Line014
+        weight: 1
+      - path: Line015
+        weight: 1
+      - path: Line016
+        weight: 1
+      - path: Line017
+        weight: 1
+      - path: Line018
+        weight: 1
+      - path: Line024
+        weight: 1
+      - path: Line038
+        weight: 1
+      - path: Line041
+        weight: 1
+      - path: Line044
+        weight: 1
+      - path: Line047
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Plane002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 4empty
+      takeName: polianka2
+      firstFrame: 702
+      lastFrame: 737
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box033
+        weight: 1
+      - path: Box034
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box037
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Line034
+        weight: 1
+      - path: Group008/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Box042
+        weight: 1
+      - path: Group009/Line035
+        weight: 1
+      - path: Group010
+        weight: 1
+      - path: Group010/Line036
+        weight: 1
+      - path: Group010/Object006
+        weight: 1
+      - path: Group011
+        weight: 1
+      - path: Group011/Box043
+        weight: 1
+      - path: Group011/Line037
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Line039
+        weight: 1
+      - path: Group012/Object007
+        weight: 1
+      - path: Group013
+        weight: 1
+      - path: Group013/Box044
+        weight: 1
+      - path: Group013/Line040
+        weight: 1
+      - path: Group014
+        weight: 1
+      - path: Group014/Line042
+        weight: 1
+      - path: Group014/Object008
+        weight: 1
+      - path: Group015
+        weight: 1
+      - path: Group015/Box045
+        weight: 1
+      - path: Group015/Line043
+        weight: 1
+      - path: Group016
+        weight: 1
+      - path: Group016/Line045
+        weight: 1
+      - path: Group016/Object009
+        weight: 1
+      - path: Group017
+        weight: 1
+      - path: Group017/Box046
+        weight: 1
+      - path: Group017/Line046
+        weight: 1
+      - path: Line011
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line013
+        weight: 1
+      - path: Line014
+        weight: 1
+      - path: Line015
+        weight: 1
+      - path: Line016
+        weight: 1
+      - path: Line017
+        weight: 1
+      - path: Line018
+        weight: 1
+      - path: Line024
+        weight: 1
+      - path: Line038
+        weight: 1
+      - path: Line041
+        weight: 1
+      - path: Line044
+        weight: 1
+      - path: Line047
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Plane002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 5up
+      takeName: polianka2
+      firstFrame: 291
+      lastFrame: 314
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box033
+        weight: 1
+      - path: Box034
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box037
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Line034
+        weight: 1
+      - path: Group008/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Box042
+        weight: 1
+      - path: Group009/Line035
+        weight: 1
+      - path: Group010
+        weight: 1
+      - path: Group010/Line036
+        weight: 1
+      - path: Group010/Object006
+        weight: 1
+      - path: Group011
+        weight: 1
+      - path: Group011/Box043
+        weight: 1
+      - path: Group011/Line037
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Line039
+        weight: 1
+      - path: Group012/Object007
+        weight: 1
+      - path: Group013
+        weight: 1
+      - path: Group013/Box044
+        weight: 1
+      - path: Group013/Line040
+        weight: 1
+      - path: Group014
+        weight: 1
+      - path: Group014/Line042
+        weight: 1
+      - path: Group014/Object008
+        weight: 1
+      - path: Group015
+        weight: 1
+      - path: Group015/Box045
+        weight: 1
+      - path: Group015/Line043
+        weight: 1
+      - path: Group016
+        weight: 1
+      - path: Group016/Line045
+        weight: 1
+      - path: Group016/Object009
+        weight: 1
+      - path: Group017
+        weight: 1
+      - path: Group017/Box046
+        weight: 1
+      - path: Group017/Line046
+        weight: 1
+      - path: Line011
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line013
+        weight: 1
+      - path: Line014
+        weight: 1
+      - path: Line015
+        weight: 1
+      - path: Line016
+        weight: 1
+      - path: Line017
+        weight: 1
+      - path: Line018
+        weight: 1
+      - path: Line024
+        weight: 1
+      - path: Line038
+        weight: 1
+      - path: Line041
+        weight: 1
+      - path: Line044
+        weight: 1
+      - path: Line047
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Plane002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 5bang
+      takeName: polianka2
+      firstFrame: 315
+      lastFrame: 355
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box033
+        weight: 1
+      - path: Box034
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box037
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Line034
+        weight: 1
+      - path: Group008/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Box042
+        weight: 1
+      - path: Group009/Line035
+        weight: 1
+      - path: Group010
+        weight: 1
+      - path: Group010/Line036
+        weight: 1
+      - path: Group010/Object006
+        weight: 1
+      - path: Group011
+        weight: 1
+      - path: Group011/Box043
+        weight: 1
+      - path: Group011/Line037
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Line039
+        weight: 1
+      - path: Group012/Object007
+        weight: 1
+      - path: Group013
+        weight: 1
+      - path: Group013/Box044
+        weight: 1
+      - path: Group013/Line040
+        weight: 1
+      - path: Group014
+        weight: 1
+      - path: Group014/Line042
+        weight: 1
+      - path: Group014/Object008
+        weight: 1
+      - path: Group015
+        weight: 1
+      - path: Group015/Box045
+        weight: 1
+      - path: Group015/Line043
+        weight: 1
+      - path: Group016
+        weight: 1
+      - path: Group016/Line045
+        weight: 1
+      - path: Group016/Object009
+        weight: 1
+      - path: Group017
+        weight: 1
+      - path: Group017/Box046
+        weight: 1
+      - path: Group017/Line046
+        weight: 1
+      - path: Line011
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line013
+        weight: 1
+      - path: Line014
+        weight: 1
+      - path: Line015
+        weight: 1
+      - path: Line016
+        weight: 1
+      - path: Line017
+        weight: 1
+      - path: Line018
+        weight: 1
+      - path: Line024
+        weight: 1
+      - path: Line038
+        weight: 1
+      - path: Line041
+        weight: 1
+      - path: Line044
+        weight: 1
+      - path: Line047
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Plane002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 5empty
+      takeName: polianka2
+      firstFrame: 391
+      lastFrame: 436
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: Box002
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Box004
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Box010
+        weight: 1
+      - path: Box011
+        weight: 1
+      - path: Box012
+        weight: 1
+      - path: Box013
+        weight: 1
+      - path: Box014
+        weight: 1
+      - path: Box015
+        weight: 1
+      - path: Box016
+        weight: 1
+      - path: Box017
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box019
+        weight: 1
+      - path: Box020
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: Box023
+        weight: 1
+      - path: Box024
+        weight: 1
+      - path: Box025
+        weight: 1
+      - path: Box026
+        weight: 1
+      - path: Box027
+        weight: 1
+      - path: Box028
+        weight: 1
+      - path: Box029
+        weight: 1
+      - path: Box030
+        weight: 1
+      - path: Box031
+        weight: 1
+      - path: Box032
+        weight: 1
+      - path: Box033
+        weight: 1
+      - path: Box034
+        weight: 1
+      - path: Box035
+        weight: 1
+      - path: Box036
+        weight: 1
+      - path: Box037
+        weight: 1
+      - path: Box038
+        weight: 1
+      - path: Box039
+        weight: 1
+      - path: Box040
+        weight: 1
+      - path: Box041
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Line034
+        weight: 1
+      - path: Group008/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Box042
+        weight: 1
+      - path: Group009/Line035
+        weight: 1
+      - path: Group010
+        weight: 1
+      - path: Group010/Line036
+        weight: 1
+      - path: Group010/Object006
+        weight: 1
+      - path: Group011
+        weight: 1
+      - path: Group011/Box043
+        weight: 1
+      - path: Group011/Line037
+        weight: 1
+      - path: Group012
+        weight: 1
+      - path: Group012/Line039
+        weight: 1
+      - path: Group012/Object007
+        weight: 1
+      - path: Group013
+        weight: 1
+      - path: Group013/Box044
+        weight: 1
+      - path: Group013/Line040
+        weight: 1
+      - path: Group014
+        weight: 1
+      - path: Group014/Line042
+        weight: 1
+      - path: Group014/Object008
+        weight: 1
+      - path: Group015
+        weight: 1
+      - path: Group015/Box045
+        weight: 1
+      - path: Group015/Line043
+        weight: 1
+      - path: Group016
+        weight: 1
+      - path: Group016/Line045
+        weight: 1
+      - path: Group016/Object009
+        weight: 1
+      - path: Group017
+        weight: 1
+      - path: Group017/Box046
+        weight: 1
+      - path: Group017/Line046
+        weight: 1
+      - path: Line011
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line013
+        weight: 1
+      - path: Line014
+        weight: 1
+      - path: Line015
+        weight: 1
+      - path: Line016
+        weight: 1
+      - path: Line017
+        weight: 1
+      - path: Line018
+        weight: 1
+      - path: Line024
+        weight: 1
+      - path: Line038
+        weight: 1
+      - path: Line041
+        weight: 1
+      - path: Line044
+        weight: 1
+      - path: Line047
+        weight: 1
+      - path: Plane001
+        weight: 1
+      - path: Plane002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

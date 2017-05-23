@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 52f317cb0146cd74e837bd9d5fb10f9b
+timeCreated: 1441197773
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box042
+    100002: Group008
+    100004: Group009
+    100006: Group010
+    100008: Group011
+    100010: Group012
+    100012: Group013
+    100014: Line024
+    100016: Line034
+    100018: Line035
+    100020: //RootNode
+    100022: Object005
+    400000: Box042
+    400002: Group008
+    400004: Group009
+    400006: Group010
+    400008: Group011
+    400010: Group012
+    400012: Group013
+    400014: Line024
+    400016: Line034
+    400018: Line035
+    400020: //RootNode
+    400022: Object005
+    2300000: Box042
+    2300002: Line024
+    2300004: Line034
+    2300006: Line035
+    2300008: Object005
+    3300000: Box042
+    3300002: Line024
+    3300004: Line034
+    3300006: Line035
+    3300008: Object005
+    4300000: Line024
+    4300002: Object005
+    4300004: Line034
+    4300006: Box042
+    4300008: Line035
+    7400000: Take 001
+    7400002: Up
+    7400004: Down
+    7400006: Bang
+    7400008: MissBang
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Group010
+        weight: 1
+      - path: Group008/Group010/Group012
+        weight: 1
+      - path: Group008/Group010/Group012/Line034
+        weight: 1
+      - path: Group008/Group010/Group012/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Group011
+        weight: 1
+      - path: Group009/Group011/Group013
+        weight: 1
+      - path: Group009/Group011/Group013/Box042
+        weight: 1
+      - path: Group009/Group011/Group013/Line035
+        weight: 1
+      - path: Line024
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Up
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Group010
+        weight: 1
+      - path: Group008/Group010/Group012
+        weight: 1
+      - path: Group008/Group010/Group012/Line034
+        weight: 1
+      - path: Group008/Group010/Group012/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Group011
+        weight: 1
+      - path: Group009/Group011/Group013
+        weight: 1
+      - path: Group009/Group011/Group013/Box042
+        weight: 1
+      - path: Group009/Group011/Group013/Line035
+        weight: 1
+      - path: Line024
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Down
+      takeName: Take 001
+      firstFrame: 32
+      lastFrame: 63
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Group010
+        weight: 1
+      - path: Group008/Group010/Group012
+        weight: 1
+      - path: Group008/Group010/Group012/Line034
+        weight: 1
+      - path: Group008/Group010/Group012/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Group011
+        weight: 1
+      - path: Group009/Group011/Group013
+        weight: 1
+      - path: Group009/Group011/Group013/Box042
+        weight: 1
+      - path: Group009/Group011/Group013/Line035
+        weight: 1
+      - path: Line024
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Bang
+      takeName: Take 001
+      firstFrame: 91
+      lastFrame: 141
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Group010
+        weight: 1
+      - path: Group008/Group010/Group012
+        weight: 1
+      - path: Group008/Group010/Group012/Line034
+        weight: 1
+      - path: Group008/Group010/Group012/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Group011
+        weight: 1
+      - path: Group009/Group011/Group013
+        weight: 1
+      - path: Group009/Group011/Group013/Box042
+        weight: 1
+      - path: Group009/Group011/Group013/Line035
+        weight: 1
+      - path: Line024
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: MissBang
+      takeName: Take 001
+      firstFrame: 147
+      lastFrame: 188
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Group008
+        weight: 1
+      - path: Group008/Group010
+        weight: 1
+      - path: Group008/Group010/Group012
+        weight: 1
+      - path: Group008/Group010/Group012/Line034
+        weight: 1
+      - path: Group008/Group010/Group012/Object005
+        weight: 1
+      - path: Group009
+        weight: 1
+      - path: Group009/Group011
+        weight: 1
+      - path: Group009/Group011/Group013
+        weight: 1
+      - path: Group009/Group011/Group013/Box042
+        weight: 1
+      - path: Group009/Group011/Group013/Line035
+        weight: 1
+      - path: Line024
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

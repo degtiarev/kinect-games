@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: a05173249fc16664b9f58cddfe56fb2d
+timeCreated: 1458557352
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: figoora
+    100004: figoora001
+    100006: figoora002
+    100008: figoora003
+    100010: figoora004
+    100012: figoora005
+    100014: figoora006
+    100016: figoora007
+    100018: figoora008
+    100020: figoora010
+    100022: figoora011
+    100024: figoora012
+    100026: figoora013
+    100028: figoora014
+    100030: figoora015
+    100032: figoora016
+    100034: figoora017
+    100036: figoora_MeshPart0
+    100038: figoora_MeshPart1
+    400000: //RootNode
+    400002: figoora
+    400004: figoora001
+    400006: figoora002
+    400008: figoora003
+    400010: figoora004
+    400012: figoora005
+    400014: figoora006
+    400016: figoora007
+    400018: figoora008
+    400020: figoora010
+    400022: figoora011
+    400024: figoora012
+    400026: figoora013
+    400028: figoora014
+    400030: figoora015
+    400032: figoora016
+    400034: figoora017
+    400036: figoora_MeshPart0
+    400038: figoora_MeshPart1
+    2300000: figoora001
+    2300002: figoora002
+    2300004: figoora003
+    2300006: figoora004
+    2300008: figoora005
+    2300010: figoora006
+    2300012: figoora007
+    2300014: figoora008
+    2300016: figoora010
+    2300018: figoora011
+    2300020: figoora012
+    2300022: figoora013
+    2300024: figoora014
+    2300026: figoora015
+    2300028: figoora016
+    2300030: figoora017
+    2300032: figoora_MeshPart0
+    2300034: figoora_MeshPart1
+    3300000: figoora001
+    3300002: figoora002
+    3300004: figoora003
+    3300006: figoora004
+    3300008: figoora005
+    3300010: figoora006
+    3300012: figoora007
+    3300014: figoora008
+    3300016: figoora010
+    3300018: figoora011
+    3300020: figoora012
+    3300022: figoora013
+    3300024: figoora014
+    3300026: figoora015
+    3300028: figoora016
+    3300030: figoora017
+    3300032: figoora_MeshPart0
+    3300034: figoora_MeshPart1
+    4300000: figoora_MeshPart0
+    4300002: figoora_MeshPart1
+    4300004: figoora001
+    4300006: figoora002
+    4300008: figoora003
+    4300010: figoora004
+    4300012: figoora005
+    4300014: figoora006
+    4300016: figoora007
+    4300018: figoora008
+    4300020: figoora010
+    4300022: figoora011
+    4300024: figoora012
+    4300026: figoora013
+    4300028: figoora014
+    4300030: figoora015
+    4300032: figoora016
+    4300034: figoora017
+    7400000: person
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: person
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: figoora
+        weight: 1
+      - path: figoora/figoora_MeshPart0
+        weight: 1
+      - path: figoora/figoora_MeshPart1
+        weight: 1
+      - path: figoora001
+        weight: 1
+      - path: figoora002
+        weight: 1
+      - path: figoora003
+        weight: 1
+      - path: figoora004
+        weight: 1
+      - path: figoora005
+        weight: 1
+      - path: figoora006
+        weight: 1
+      - path: figoora007
+        weight: 1
+      - path: figoora008
+        weight: 1
+      - path: figoora010
+        weight: 1
+      - path: figoora011
+        weight: 1
+      - path: figoora012
+        weight: 1
+      - path: figoora013
+        weight: 1
+      - path: figoora014
+        weight: 1
+      - path: figoora015
+        weight: 1
+      - path: figoora016
+        weight: 1
+      - path: figoora017
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
